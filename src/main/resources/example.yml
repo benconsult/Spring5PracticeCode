@@ -1,0 +1,28 @@
+#this is a comment
+name: Ben
+
+names:
+  -Bolu
+  -Tobi
+  -Carol
+
+  pound_sign: "#"
+
+  book:
+    author: John Bull
+    publisher: random house
+
+ truth: yes
+
+false: no #NO, FALSE,false
+
+string_val: "Hi loveth"
+
+include_new_lines: |
+  erdff jhhh eeee
+  eeer ffrew sdrrt
+
+ignore_new_lines: >
+  this is
+  just one long
+  line
